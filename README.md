@@ -12,3 +12,21 @@ The goals of this project are:
 - Providing support in variant interpretation and classification
 - Visualizing data from the global GRIN registry
 - Linking researchers, clinicians and families
+
+## Project overview
+Currently, interpreting genetic testing results of individuals carrying pathogenic variants in *GRIN1, GRIN2A, GRIN2B* and *GRIN2D* remains challenging and predicting the clinical outcome is difficult.
+The GRIN Portal serves as a novel resource for the community to facilitate education, variant interpretation & research on GRIN genes and associated disorders. The framework is designed to connect various types of data at massive scale. We are looking for many more collaborators contributing to this project and encourage affected families and treating clinicians to participate in the GRIN Registry.
+
+## Functionalities
+- The tab “Basic Information” of the GRIN Portal provides an overview of the history and current state of GRIN-research, as well as clinical and genetic summaries from the GRIN registry of almost 600 participants.
+- The “Families” tab provides educational videos on GRIN genes and links to family organizations from all over the world.
+- The “Variant Analysis” tab provides tools to inform the user about GRIN-variants with genetic information, patient information from the GRIN Registry, and comparisons to molecular, clinical and genetic data stored within the GRIN Portal.  The user may also download a report of the selected variant or assess multiple variants at the same time. 
+- Under the “Research” tab, all molecular, genetic and clinical data is integrated and can be interactively explored through filtering and mapping on 2D protein sequences and 3D protein structures. Group level summary statistics on clinical and functional information are also available. 
+
+## Availability
+Please access the GRIN Portal at https://grin-portal.broadinstitute.org/.
+
+## Contact
+The current version of the GRIN Portal has been developed by an international team of researchers and clinicians. Please address comments and questions about the GRIN Portal to: Chiara Klöckner - chiara.kloeckner@medizin.uni-leipzig.de; GRIN@medizin.uni-leipzig.de
+## Disclaimer
+We object to any commercial use and disclosure of data. The contents of this web project have been carefully checked and created to the best of our knowledge. But for the information presented is no claim to completeness, timeliness, quality and accuracy. No responsibility can be accepted for any damage caused by reliance on or use of the contents of this website.
