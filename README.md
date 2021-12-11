@@ -13,6 +13,8 @@ The goals of this project are:
 - Visualizing data from the global GRIN registry
 - Linking researchers, clinicians and families
 
+<img src="https://user-images.githubusercontent.com/67484272/145692474-d564e2af-538c-432e-86e9-70338fbb741b.png" width=50%>
+
 ## Project overview
 Currently, interpreting genetic testing results of individuals carrying pathogenic variants in *GRIN1, GRIN2A, GRIN2B* and *GRIN2D* remains challenging and predicting the clinical outcome is difficult.
 The GRIN Portal serves as a novel resource for the community to facilitate education, variant interpretation & research on GRIN genes and associated disorders. The framework is designed to connect various types of data at massive scale. We are looking for many more collaborators contributing to this project and encourage affected families and treating clinicians to participate in the GRIN Registry.
@@ -30,3 +32,6 @@ Please access the GRIN Portal at https://grin-portal.broadinstitute.org/.
 The current version of the GRIN Portal has been developed by an international team of researchers and clinicians. Please address comments and questions about the GRIN Portal to: Chiara Klöckner - chiara.kloeckner@medizin.uni-leipzig.de; GRIN@medizin.uni-leipzig.de
 ## Disclaimer
 We object to any commercial use and disclosure of data. The contents of this web project have been carefully checked and created to the best of our knowledge. But for the information presented is no claim to completeness, timeliness, quality and accuracy. No responsibility can be accepted for any damage caused by reliance on or use of the contents of this website.
+
+
+
