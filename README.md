@@ -22,10 +22,11 @@ The GRIN Portal serves as a novel resource for the community to facilitate educa
 </p>
 
 ## Functionalities
-- The tab “Basic Information” of the GRIN Portal provides an overview of the history and current state of GRIN-research, as well as clinical and genetic summaries from the GRIN registry of almost 600 participants.
-- The “Families” tab provides educational videos on GRIN genes and links to family organizations from all over the world.
-- The “Variant Analysis” tab provides tools to inform the user about GRIN-variants with genetic information, patient information from the GRIN Registry, and comparisons to molecular, clinical and genetic data stored within the GRIN Portal.  The user may also download a report of the selected variant or assess multiple variants at the same time. 
-- Under the “Research” tab, all molecular, genetic and clinical data is integrated and can be interactively explored through filtering and mapping on 2D protein sequences and 3D protein structures. Group level summary statistics on clinical and functional information are also available. 
+- **"Basic Information"**: overview of the history and current state of GRIN-research, as well as clinical and genetic summaries from the GRIN registry of almost 600 participants.
+- **"Families”**: educational videos on GRIN genes and links to family organizations from all over the world.
+- **“Variant Analysis”**: variant-level genetic information, patient information from the GRIN Registry, and comparisons to molecular, clinical and genetic data stored within the GRIN Portal. The user may also download a report of the selected variant or assess multiple variants at the same time. 
+- **“Research”**: integration of all molecular, genetic and clinical data and interactive exploration through filtering and mapping on 2D protein sequences and 3D protein structures. Group level summary statistics on clinical and functional information are also available. 
+- **"GRIN Registry"**: Information on how and where to register to participate in the GRIN patient registry.
 
 ## Availability
 Please access the GRIN Portal at https://grin-portal.broadinstitute.org/.
